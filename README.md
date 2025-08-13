@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://github.com/yezz123/yezz123/blob/master/img/img02.gif">
+  <img src="https://github.com/yezz123/yezz123/blob/master/img/school-of-athens.jpg">
 
 <div align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=18F76B&width=435&lines=Im+The_White_Hat+a++DFIR" alt="Typing SVG" /></a>
